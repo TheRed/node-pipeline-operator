@@ -571,7 +571,7 @@ babel-types@^6.19.0, babel-types@^6.24.1, babel-types@^6.26.0:
     lodash "^4.17.4"
     to-fast-properties "^1.0.3"
 
-babylon-akihitofujiwara@6:
+babylon-akihitofujiwara@^6.18.0:
   version "6.18.0"
   resolved "https://registry.yarnpkg.com/babylon-akihitofujiwara/-/babylon-akihitofujiwara-6.18.0.tgz#0691d2122df96fd2dbcd6f050d1ca49d90c20523"
 
