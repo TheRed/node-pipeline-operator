@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "transform-pipeline-operator"
+  ],
+  "parserOpts": {
+    "parser": "babylon-akihitofujiwara"
+  }
+}
