@@ -2,7 +2,7 @@
   "name": "pipeline_operator",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "start": "babel index.js | node"
   },
